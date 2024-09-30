@@ -12,12 +12,13 @@
 
 
 
-  <img align="left" alt="Jayant's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arun130469&show_icons=true&hide_border=true" />
+<img align="left" alt="Arun's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arun130469&show_icons=true&hide_border=true" />
   
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arun130469)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arun130469&layout=compact)](https://github.com/arun130469/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arun130469&layout=compact)](https://github.com/arun130469/github-readme-stats)
+<br>
   
   
   
@@ -34,6 +35,7 @@ NOTE: Top Languages does not indicate my skill level or anything like that, it's
    -->
 
 
-
+<br>
+<br>
 
 
