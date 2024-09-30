@@ -15,9 +15,10 @@
 <img align="left" alt="Arun's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arun130469&show_icons=true&hide_border=true" />
   
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arun130469)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arun130469)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arun130469&layout=compact)](https://github.com/arun130469/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arun130469)](https://github.com/arun130469/github-readme-stats)
+
 <br>
   
   
